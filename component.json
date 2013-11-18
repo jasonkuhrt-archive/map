@@ -1,0 +1,17 @@
+{
+  "name": "map",
+  "repo": "jasonkuhrt/map",
+  "description": "A curried map function that works with Functors",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "ForbesLindesay/curry": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
