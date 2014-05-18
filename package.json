@@ -1,6 +1,6 @@
 {
   "name": "map",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A curried map function that works with Functors",
   "main": "index.js",
   "scripts": {
@@ -16,11 +16,11 @@
     "collection"
   ],
   "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jasonkuhrt/map/issues"
   },
   "dependencies": {
-    "curry": "~1.2.0"
+    "purry": "0.0.1"
   }
 }

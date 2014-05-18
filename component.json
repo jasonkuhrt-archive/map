@@ -1,11 +1,11 @@
 {
   "name": "map",
-  "repo": "jasonkuhrt/map",
+  "repository": "jasonkuhrt/map",
   "description": "A curried map function that works with Functors",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": [],
   "dependencies": {
-    "ForbesLindesay/curry": "*"
+    "jasonkuhrt/purry": "0.0.1"
   },
   "development": {},
   "license": "MIT",
